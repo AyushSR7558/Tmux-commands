@@ -15,6 +15,11 @@
 - tmux ls: List all the sessions
 - tmux attach: -t mysession : To attach to the sesssion
 - tmux kill-session -t mysession : To kill the session named mysession
+- "tmux + b" -> c : Create new window
+- "tmux + b" -> p : To go to previous window
+- "tmux + b" -> n : To go to next window
+- "tmux + b" -> w : To view all window
+- "tmub + b" -> , : To rename the window
 
 - "Ctrl + b" -> %: To have a vertical split
 - "Ctrl + b" -> ": To have a horizontal split
